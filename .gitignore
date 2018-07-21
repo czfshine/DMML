@@ -264,3 +264,4 @@ project/ICDM2018/.ipynb_checkpoints/
 project/ICDM2018/output/
 project/.ipynb_checkpoints/
 learn/summary/
+*.ipynb_checkpoints/
