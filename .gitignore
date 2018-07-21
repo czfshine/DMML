@@ -265,3 +265,5 @@ project/ICDM2018/output/
 project/.ipynb_checkpoints/
 learn/summary/
 *.ipynb_checkpoints/
+project/SVPC/models/
+*.csv
