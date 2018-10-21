@@ -267,3 +267,5 @@ learn/summary/
 *.ipynb_checkpoints/
 project/SVPC/models/
 *.csv
+learn/apriori/online-retail.zip
+learn/apriori/Online Retail.xlsx
